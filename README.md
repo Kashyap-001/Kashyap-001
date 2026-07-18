@@ -6,4 +6,4 @@ MCA student (BCA, CPI 8.67) and AWS Certified Cloud Practitioner, currently buil
 - ☁️ AWS: Lambda, IAM, EC2, S3, serverless architecture
 - 🐍 Python (Pandas, NumPy), Django, PHP, C, MySQL
 - 🛠️ Git/GitHub, GitHub Actions CI/CD, Docker, Kubernetes
-- 📫 Reach me: kashyap6334@gmail.com
+- 📫 Reach me: kashyap6334@gmail.com | [LinkedIn](https://www.linkedin.com/in/kashyap-patel6334)
