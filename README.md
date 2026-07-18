@@ -6,4 +6,5 @@ MCA student (BCA, CPI 8.67) and AWS Certified Cloud Practitioner, currently buil
 - ☁️ AWS: Lambda, IAM, EC2, S3, serverless architecture
 - 🐍 Python (Pandas, NumPy), Django, PHP, C, MySQL
 - 🛠️ Git/GitHub, GitHub Actions CI/CD, Docker, Kubernetes
+- 🌱 Open source: fixed a syntax error and improved snippet regex logic in [mstuttgart/odoo-snippets #15](https://github.com/mstuttgart/odoo-snippets/pull/15) (merged) — a VS Code extension for Odoo snippets
 - 📫 Reach me: kashyap6334@gmail.com | [LinkedIn](https://www.linkedin.com/in/kashyap-patel6334)
